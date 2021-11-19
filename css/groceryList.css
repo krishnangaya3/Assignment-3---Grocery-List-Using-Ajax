@@ -1,5 +1,5 @@
 body {
-    background-image: url('/data/bgImage.jpg');
+    background-image: url('data/bgImage.jpg');
     color: white;
     background-repeat: no-repeat;
     min-height: 100vh;
