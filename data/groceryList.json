@@ -1,0 +1,74 @@
+{
+    "Items": [
+        {
+            "SLNo": 1,
+            "Name": "Apple",
+            "Quantity": "1.5",
+            "Unit": "Kilograms",
+            "Department": "Fruits"
+        },
+        {
+            "SLNo": 2,
+            "Name": "Mango",
+            "Quantity": "2",
+            "Unit": "Kilograms",
+            "Department": "Fruits"
+        },
+        {
+            "SLNo": 3,
+            "Name": "Milk",
+            "Quantity": "2",
+            "Unit": "Cartons",
+            "Department": "Dairy"
+        },
+        {
+            "SLNo": 4,
+            "Name": "Salt",
+            "Quantity": "0.5",
+            "Unit": "Kilograms",
+            "Department": "Spices"
+        },
+        {
+            "SLNo": 5,
+            "Name": "Carrots",
+            "Quantity": "1",
+            "Unit": "Kilograms",
+            "Department": "Vegetables"
+        },
+        {
+            "SLNo": 6,
+            "Name": "Pappaya",
+            "Quantity": "0.5",
+            "Unit": "Kilograms",
+            "Department": "Vegetables"
+        },
+        {
+            "SLNo": 7,
+            "Name": "Tomato",
+            "Quantity": "0.5",
+            "Unit": "Kilograms",
+            "Department": "Vegetables"
+        },  
+        {
+            "SLNo": 8,
+            "Name": "Potato",
+            "Quantity": "0.5",
+            "Unit": "Kilograms",
+            "Department": "Vegetables"
+        },
+        {
+            "SLNo": 9,
+            "Name": "Shampoo",
+            "Quantity": "1",
+            "Unit": "Bottle",
+            "Department": "Toiletries"
+        },
+        {
+            "SLNo": 10,
+            "Name": "Cookies",
+            "Quantity": "3",
+            "Unit": "Packets",
+            "Department": "Snacks"            
+        }
+    ]
+}
